@@ -1,0 +1,57 @@
+Justification de l’organisation de mon dossier documentaire et du site web
+
+
+
+Dans le cadre de ce projet de fin d’année, nous avons été amenés à créer un site web. Celui a été organisé selon les principes d’architecture de l’information, vus en cours. Nous avons appris qu’un site web doit être organisé en fonction de trois axes principaux1 : 
+
+
+
+le contexte : dans le cadre de ce projet, le contexte est académique et est destiné à être évalué. Le site Web pourra être visionné sur PC, smartphone ou tablette (l’accès sur supports mobiles a été testé par mes soins)
+
+
+
+le contenu : les types de documents présents sur ce site ont été déterminés :
+des pages Web dites “classiques” avec  HTML et CSS
+des pages Web dites “mixtes” avec une partie visible en tant que page Web et renvoyant vers un contenu, accessible dans un autre format de fichiers (ici, le PDF)
+des documents au format PDF 
+
+
+
+les utilisateurs : Il nous a été conseillé de créer un “persona”, c’est-à-dire des personnages fictifs qui seraient amenés à visionner notre site Web. Dans ce contexte, le persona est un.e professionnel.le de l’information et de la documentation. 
+
+
+
+J’ai donc organisé mon site Web en gardant à l’esprit tous les points cités ci-dessus. 
+
+Durant la réalisation de ce projet, s’est également posé la question de ce qu’allait faire l’utilisateur sur mon site Web. Ici, le but principal est la lecture du contenu et son évaluation. J’ai donc veillé à établir une mise en page HTML aérée, en modifiant la police par défaut (de Times New Roman à Trebuchet MS) avec les titres de pages en couleur différente que celle du corpus. Les outils que j’ai utilisés ont été le logiciel Atom (conseillé par M. Di Pretoro) ainsi qu’un éditeur HTML en ligne2 .
+
+Concernant l’organisation du contenu, des différentes pages Web qui allaient former ce site, je me suis basée sur les différentes consignes reçues par M. Di Pretoro, c’est-à-dire : 
+
+Les réponses aux deux questions essentielles
+Le dossier documentaire sur une technologie ainsi que la justification de celui-ci et du site Web
+Le cahier des charges
+La kanban 
+
+Ces différents points ont été repris tels quels dans le plan du site, que j’ai fait apparaître sur la page d’accueil de mon site Web. J’ai pris de soin de les afficher avec des liens hypertextes, ce qui permet l’utilisateur de pouvoir naviguer directement sur la page désirée. 
+
+Au sein de mon dépot GitHub, j’ai choisi de procéder de la même manière, en créant systématiquement des dossiers, nommés, par exemple : “documentation” pour tout le contenu concernant le dossier documentaire, “kanban”, “questions”,... etc. Au sein de chaque dossier, j’y ai inséré les fichiers (HTML, PDF) correspondant à la thématique. 
+
+J’ai créé un autre dossier “fichiers” où j’ai déposé tous les documents PDF nécessaires à mon dossier documentaire.
+
+
+
+Plusieurs points auraient pu être néanmoins améliorés afin d’optimiser la navigation au sein du site. Premièrement, une barre de recherche pourrait être utile afin d’effectuer une recherche par mot-clé. Pour cela, il aurait fallu ajouter des métadonnées à chaque contenu de pages Web. 
+
+
+
+En ce qui concerne le choix des documents présents dans mon dossier documentaire sur l’EAD, je me suis basé sur l’évaluation de la qualité et de la pertinence des sources3 . 
+
+Le dossier documentaire étant destiné à un public de professionnels de l’info-doc, j’ai classé les documents par plusieurs thématiques, comme l’on pourrait en trouver dans une bibliographie classique : Synthèse sur l'EAD, L'EAD en bibliothèque, Guides sur l'EAD, Terminologie et syntaxe de l'EAD.
+
+
+
+1 POUCHOT, Stéphanie et EPRON, Benoît. Chapitre 8 : Classer numérique. Extrait de : Architecture de l'information : méthodes, outils, enjeux. 2015. p. 161. 
+
+2 HTML.am. Online HTML Editor (Free). Disponible en ligne : http://www.html.am/html-editors/online-html-editor.cfm (consulté le 13/01/17)
+
+3 ICHEC. Evaluer la qualité et la pertinence des sources. Disponible en ligne : http://bibliotheque.ichec.be/utiliser-des-outils-documentaires/les-etapes-a-suivre/evaluer-la-qualite-et-la-pertinence-des-sources (consulté le 13/01/17)
